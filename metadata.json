@@ -1,0 +1,6 @@
+{
+  "name": "Picked AI Visibility Scanner",
+  "description": "14-day MVP AI Visibility & GEO Scanner. Audits business brand visibility, citations, and competitor share of voice across ChatGPT (OpenAI), Gemini, and search engines in English and Estonian.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
